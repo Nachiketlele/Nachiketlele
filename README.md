@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **react, redux and chakra**
 
-- 📫 How to reach me **nachiketlele75@gmail.com**
+- 📫 How to reach me **nachiketlele73@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DQRuhxRY_R-SyJY7GU7LAAiLA4aCqmJ2/view?usp=sharing](https://drive.google.com/file/d/1DQRuhxRY_R-SyJY7GU7LAAiLA4aCqmJ2/view?usp=sharing)
 
