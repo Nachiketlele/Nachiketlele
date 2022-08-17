@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nachiket Lele</h1>
 <h3 align="center">I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore now technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Data Structure and Algorithms.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiketlele&label=Profile%20views&color=0e75b6&style=flat" alt="nachiketlele" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nachiketlele" alt="nachiketlele" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiketlele&label=Profile%20views&color=0e75b6&style=flat" alt="nachiketlele" /> </p>
+ -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nachiketlele" alt="nachiketlele" /></a> </p> -->
 
 
 <img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
