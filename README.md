@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nachiket Lele</h1>
-<h3 align="center">A passionate frontend developer from Sirsi, Karnataka</h3>
+<h3 align="center">I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore now technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Data Structure and Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachiketlele&label=Profile%20views&color=0e75b6&style=flat" alt="nachiketlele" /> </p>
 
