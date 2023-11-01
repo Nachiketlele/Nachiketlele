@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nachiketlele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nachiket lele" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nachiket-lele-b27468189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nachiket lele" height="30" width="40" /></a>
 <a href="https://fb.com/nachiket lele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nachiket lele" height="30" width="40" /></a>
 <a href="https://instagram.com/the14th_letter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the14th_letter" height="30" width="40" /></a>
 </p>
